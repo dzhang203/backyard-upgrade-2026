@@ -1,0 +1,4 @@
+Location: 318 24th Ave, San Mateo, California 94403
+Scope: Resurface parts of backyard to increase usable area -- add pavers, artificial turf, smooth grass. Add a large gazebo with roof (maybe 16' by 10') to side of backyard near side fence. Remove 1-2 existing vegetable planters.
+Uncertainties: Permits for gazebo? Other considerations for gazebo? Any upsides/downsides to having gazebo very close (i.e. 1-2 feet) from side fence? Also we are considering whether to leave a planer just northwest of the gazebo -- will be very shaded, wondering if there are considerations around what can grow in that planter.
+Requirements: Do thorough research and make sure you reocmmendations are grounded in facts about what's legal and logical for our local jurisdiction in San Mateo, California.
