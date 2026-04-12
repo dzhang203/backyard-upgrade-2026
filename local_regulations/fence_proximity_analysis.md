@@ -278,3 +278,123 @@ Mesh curtains left down against a wood fence during Bay Area fire season (Aug–
 2. Install a gravel strip (not soil, not mulch) at the fence base in the gap
 3. Check for and seal any gaps at the fence board bottoms
 4. Confirm with your specific gazebo product whether the fence-side eave has a built-in gutter/drip edge that can route water away
+
+---
+
+## Part 7: Correction — Fence Post Replacement With an Open-Sided Structure
+
+Earlier analysis overstated the difficulty of fence replacement at 3+ feet of clearance. The key distinction missed: **a gazebo is not a shed**. A gazebo is open on all sides — no walls, no enclosed floor — which substantially changes the calculus for a fence contractor.
+
+**What a fence contractor actually needs to do, and what they can do at 3'4" post clearance:**
+
+*Removing old fence posts:*
+The contractor digs or pulls out the old posts. For a boundary fence, they work primarily from the neighbor's side (the open side). From your side, 3'4" is ample room for a person with a post puller or shovel. The open gazebo structure lets them angle tools freely.
+
+*Digging new post holes:*
+A hand-held or walk-behind gas auger is ~18 inches wide and needs roughly 2–3 feet of horizontal clearance to operate. At 3'4" from your nearest gazebo post, this fits. (A truck-mounted auger is out regardless, since it can't reach along a fence line with a structure nearby — but truck-mounted augers are the exception, not the rule, for residential fence jobs.)
+
+*Setting posts, attaching rails and boards:*
+The contractor works from whichever side offers better access for each task. With an open-sided gazebo, boards and rails can be passed sideways through the open structure. A 6-foot fence board fits horizontally through the space between gazebo posts (which are ~10–12 feet apart on the long axis). No meaningful obstruction.
+
+*The real constraint at 3'4":*
+The one genuine limitation is that the fence contractor can't easily position a full 8-foot fence panel as a pre-assembled unit — they'd bring it in and assemble board by board rather than panel by panel. This adds modest labor time but is completely routine for experienced residential fence crews.
+
+**Revised assessment at 3-foot eave / 3'4" post clearance:**
+Fence replacement is a **normal job with minor inconvenience**, not a major obstacle. The fence crew can work from the neighbor's side for most tasks; your side has adequate room for the tasks that require it. The open-sided nature of the gazebo means no boards need to be removed, no structure disassembled. A competent fence contractor would not flag 3'4" clearance next to an open gazebo as a significant problem.
+
+The earlier concern about fence replacement was most valid at 1–2 feet and/or for solid enclosed structures like sheds. At 3'4" with an open gazebo, it's a non-issue in practice.
+
+---
+
+## Part 8: Drainage — The Specific Purple Leaf Design
+
+*Updated based on product research (gazebo_rainwater_drainage.png):*
+
+The **Purple Leaf 10'×16' hardtop gazebo** does not use open eave drainage. Instead it has an **internal built-in drainage system**: rain falls on the sloped double roof panels, collects in internal gutters along the roof frame, and drains through the **hollow corner posts/columns**, exiting at the base of each post at ground level.
+
+**What this means for fence proximity:**
+
+Good news:
+- The eave perimeter is **essentially dry** — no water falls off the sides or drips from the eaves onto adjacent surfaces including the fence
+- The fence-facing eave at 3 feet is therefore not a source of moisture exposure for the fence
+- The previous moisture/rot concern for the fence is largely eliminated for this specific product's design
+
+New concern — concentrated drainage at post bases:
+- All roof water from the entire 160 sq ft footprint concentrates at 4 corner post drain points
+- In a moderate Bay Area rainstorm (0.25"/hr), a 10×16 roof collects roughly **1.7 gallons per minute** of runoff across all 4 drains combined (~0.4 gal/min per corner)
+- In a heavy storm (1"/hr, which does occur in San Mateo winters), that's ~6.7 gal/min total, or **~1.7 gal/min per corner post**
+- This exits the post at ground level with considerable force, creating a concentrated splash point at each post base
+- Without a drainage solution, this erodes soil, splashes mulch and debris, and can pool if the ground isn't well-draining
+
+The two fence-adjacent corner posts are 3'4" from the fence — so the drainage events are happening 3'4" from the fence base. With no mitigation this splash could reach the fence in a heavy storm. With mitigation (see below), it's fully manageable.
+
+---
+
+## Part 9: Drainage Solutions for Post-Column Drain Outlets
+
+### Option A: Rain Chain (the solution you're considering) ✅ Recommended
+
+A **rain chain** (Japanese: *kusari-doi*) replaces the function of a downspout: it attaches to the drain outlet — in this case, either at the top of the column where the gutter feeds in, or at the exit port at the column base — and guides water downward in a decorative, controlled way. Each link or cup breaks the water's fall, converting a concentrated high-velocity stream into a cascading, low-velocity flow.
+
+*Types:*
+- **Cup style** (stacked bell or bucket shapes): water fills each cup and overflows into the next. Better for controlling splash, good in high flow. Recommended here.
+- **Link style** (open rings): water flows along the chain surface. More decorative, slightly less controlled. Works fine for moderate rainfall.
+
+*How to install for this gazebo:*
+The Purple Leaf posts are hollow aluminum with the drain exiting at the base. Two approaches:
+1. **Top attachment:** If there's a gutter opening at the roof level on each post, attach the chain there and let it hang the full column height to a basin. This gives the most visual drama and best splash control.
+2. **Base attachment:** If the exit port is at the column bottom (the more likely location given the "drains through the column" design), the chain would be a short run from the post base angled into a basin — more functional than decorative.
+
+Either way, you'll need to pair the chain with a basin or French drain at ground level (see Option C below). The chain alone doesn't solve drainage; it just makes it nicer and reduces splash.
+
+*Sourcing:* Available at garden centers, Home Depot, and Amazon. Budget $25–$80 per chain depending on style and length. You'd want 4 (one per post).
+
+---
+
+### Option B: Gravel Basin at Each Post Base
+
+The simplest solution. At each corner post base, excavate a circular basin approximately **12–18 inches in diameter, 6–8 inches deep**, and fill with coarse river rock or 3/4" gravel. The rock absorbs impact energy from the drainage stream, eliminates splash, and allows the water to percolate through to the soil below.
+
+*Cost:* Minimal — a bag of river rock ($5–$10) per corner.
+*Appearance:* Functional but plain. Can be made more attractive by using decorative stone.
+*Limitation:* In a very heavy rain, the basin can overflow if the soil below doesn't drain fast enough. Add a perforated drain pipe at the bottom of the basin (leading to a French drain or the lawn) if drainage is sluggish.
+
+---
+
+### Option C: French Drain from Each Post → Shared Outlet ✅ Most Thorough
+
+The most permanent and thorough solution. At each corner post:
+1. Attach a short PVC or flexible drain elbow to the post drain exit
+2. Run a buried 4" perforated drain pipe from each post base, sloped slightly downhill (~1% grade)
+3. Connect to a single shared underground French drain trench filled with gravel, or daylight the pipe at the lawn edge where water can disperse over the turf
+
+This is essentially what a properly installed permanent structure's stormwater management looks like. Requires modest excavation (4–6 inches deep) but keeps water completely controlled, invisible, and away from both the fence and the patio surface.
+
+*Best combined with:* Gravel basins at the post bases where the pipes enter, to absorb initial impact.
+
+---
+
+### Option D: Rain Chain + Gravel Basin (Combined) ✅ Best Balance of Function and Aesthetics
+
+The solution you're already considering. This is the right call:
+
+1. Attach a **cup-style rain chain** at each post's drain outlet (top or base, depending on the Purple Leaf's specific outlet location)
+2. At the bottom of each chain, place a **decorative basin**: a shallow stone bowl, a buried gravel pit, or a decorative pot with drainage holes filled with river rock
+3. The chain breaks the velocity of falling water; the basin absorbs the remaining impact and disperses it into the ground
+
+*For the two fence-adjacent posts specifically:* direct the chain into a basin positioned toward the center of the gazebo (not toward the fence), so drainage moves away from rather than toward the fence.
+
+*Visual notes:* Rain chains are popular in Japanese-inspired and modern garden aesthetics — they suit the contemporary style of this yard well. Copper chains age to a patina; aluminum/zinc chains stay neutral grey to match the gazebo.
+
+---
+
+### Summary: Which to Choose
+
+| Option | Cost | Appearance | Effectiveness | Install Complexity |
+|--------|------|-----------|---------------|--------------------|
+| A: Rain chain only | $100–$300 total | High | Medium (needs basin) | Easy |
+| B: Gravel basin only | $20–$40 total | Low-medium | Good for moderate rain | Easy |
+| C: French drain | $200–$500 DIY | Invisible | Excellent | Moderate |
+| D: Rain chain + gravel basin | $120–$350 total | High | Very good | Easy |
+
+**Recommendation:** Option D (rain chain + gravel basin) for the fence-adjacent posts. Option B alone (gravel basin only) is sufficient for the two posts facing away from the fence. Run the chain/basin drainage toward the interior of the gazebo footprint or toward the patio, not toward the fence.

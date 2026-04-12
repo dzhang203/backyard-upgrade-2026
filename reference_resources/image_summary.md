@@ -150,3 +150,24 @@ Pre-manufactured hardtop gazebo (product photo). Characteristics:
 - Appears to be approximately 10 ft × 16 ft (matching the 16'×10' in project notes)
 - Approximate height: ~9–10 ft to eave/plate, ~11–12 ft to roof peak
 - Style: modern/contemporary, consistent with the dark charcoal house exterior
+
+---
+
+## New Reference Images (Added April 2026)
+
+### mock_3_foot_roof_setback.png
+3D SketchUp model render showing the proposed gazebo placement with a 3-foot roof eave setback from the left (west side) fence. View angle: overhead/oblique looking roughly northwest. Shows:
+- Gazebo positioned along the left fence with clearly visible clearance (~3 ft between roof eave and fence boards)
+- The side fence (light grey/white horizontal slat-style) is on the left of frame
+- Two raised wooden planter boxes are visible in the left foreground (the planters being considered for removal or retention)
+- The back fence is visible at the top of frame, with a neighbor's structure (shed/garage) visible over it
+- The gazebo's dark hip roof is clearly distinct from the fence line — confirms the spacing is meaningful and visually open, not cramped-looking
+- The placement appears to be in the rear portion of the yard, consistent with the rear-1/3 zone analysis
+- Overall the 3-ft eave clearance reads as comfortable and accessible in this rendering
+
+### gazebo_rainwater_drainage.png
+Amazon product listing screenshot for the **Purple Leaf 10' × 16' Hardtop Gazebo** — this is the specific model being considered. Key information visible:
+- **Product:** PURPLE LEAF 10' X 16' Hardtop Gazebo, Aluminum Frame, Galvanized Steel Double Roof, Garden Curtains and Netting Included, Grey
+- **Price:** $1,999.99 (grey); $2,079.99 (alternate color)
+- **Rating:** 4.7 stars (1,296 reviews)
+- **Critical design detail — "Built-in Drainage System":** The product callout states: *"Efficiently manages water, keeping the space dry and comfortable underneath."* The image shows internal drainage channels in the roof panels. **Water does NOT fall off the open eaves** — it is collected in internal roof gutters and drains through the hollow corner posts (columns), exiting at the post bases at ground level. This fundamentally changes the water management picture: the eave perimeter is essentially dry; all drainage is concentrated at the 4 corner post bases.
